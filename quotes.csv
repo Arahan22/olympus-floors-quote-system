@@ -1,0 +1,2 @@
+quote_id,date,customer_name,phone,email,product,sqft,sqft_with_waste,boxes,price_per_sqft,material_total,charge_tax,tax_rate,tax_amount,grand_total
+Q20260428204323,2026-04-28 20:43:23,johnathan castro,7869693079,sales@olympusfloors.com,aran ,5467.0,6013.7,285,1.69,9239.23,yes,7.0,646.75,9885.98
